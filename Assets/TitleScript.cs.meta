@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f1fb6aa3186e82e4f933020c5a3ec941
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - btnStartTexture: {instanceID: 0}
+  - btnQuitTexture: {instanceID: 0}
+  - mainSkin: {fileID: 11400000, guid: 70985937465306e4290e2e1b1221fa7a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
